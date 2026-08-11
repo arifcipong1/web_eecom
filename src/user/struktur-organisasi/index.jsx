@@ -1,4 +1,3 @@
-import ImageStrukturOrganisasi from "./components/image-control";
 import CardDivision from "./components/card-division";
 import { MaintenaceComponents } from "../../global/components";
 
@@ -11,11 +10,8 @@ export default function StrukturOrganisasi() {
 
         <p className="text-sm md:text-base text-justify indent-8">Kami dengan bangga mempersembahkan struktur organisasi UKM-FT EECOM 2026. Di bawah kepemimpinan dan arahan yang penuh dedikasi, kami berkomitmen untuk terus meningkatkan kualitas dan kontribusi kami dalam bidang pendidikan dan pengembangan keterampilan. Setiap anggota tim memainkan peran penting dalam mencapai tujuan bersama, memastikan bahwa setiap kegiatan dan program berjalan dengan lancar dan efektif. </p>
 
-        <p className="text-sm md:text-base mt-2 mb-4 text-justify indent-8">Dalam struktur organisasi ini, setiap posisi dan individu telah dipilih dengan hati-hati untuk memastikan sinergi yang optimal. Bersama-sama, kami siap menghadapi tantangan dan menciptakan inovasi yang membawa dampak positif bagi komunitas kita. Berikut adalah susunan lengkap tim kami :</p>
+        <p className="text-sm md:text-base mt-2 mb-4 text-justify indent-8">Dalam struktur organisasi ini, setiap posisi dan individu telah dipilih dengan hati-hati untuk memastikan sinergi yang optimal. Bersama-sama, kami siap menghadapi tantangan dan menciptakan inovasi yang membawa dampak positif bagi komunitas kita.</p>
         
-        {/* image */}
-        <ImageStrukturOrganisasi />
-
         <h3 className="mt-4 mb-2 md:text-base font-semibold">Yuk Mengenal Lebih Lanjut :</h3>
 
         <CardDivision />
