@@ -1,0 +1,283 @@
+{
+  "ph": {
+    "jobdesk": "Daily Manager berperan sebagai motor penggerak utama dalam menjalankan operasional harian UKM-FT EECOM, dengan tanggung jawab mengimplementasikan kebijakan, mengelola keuangan, serta mengoordinasikan berbagai kegiatan untuk memastikan semuanya berjalan lancar. Selain itu, Daily Manager juga berperan penting dalam menjalin hubungan eksternal, menyusun laporan, serta mengelola sumber daya manusia. Dengan menjaga komunikasi antaranggota dan mengelola administrasi dengan baik, mereka memastikan tercapainya tujuan organisasi secara efisien dan efektif.",
+    "struktur": "/photos/ph.png",
+    "member": [
+      {
+        "id": 1,
+        "name": "Bagus DwiLaksono",
+        "as": "General Leader",
+        "photo": "/photos/bagus.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      },
+      {
+        "id": 2,
+        "name": "M. Arif",
+        "as": "Vice General Leader",
+        "photo": "/photos/arip.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 3,
+        "name": "Mochamad Afriza Dwi",
+        "as": "Head of Department",
+        "photo": "/photos/afriza.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 4,
+        "name": "Mutia Awalul Syifani",
+        "as": "First Secretary",
+        "photo": "/photos/mutia.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 5,
+        "name": "Zaidatul Abidah",
+        "as": "Second Secretary",
+        "photo": "/photos/zaidatul.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      },
+      {
+        "id": 6,
+        "name": "Anjeli Natasya",
+        "as": "First Treasurer",
+        "photo": "/photos/anjeli.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 7,
+        "name": "Naufal Akmal H",
+        "as": "Second Treasurer",
+        "photo": "/photos/naufal.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      }
+    ]
+  },
+  "hrd": {
+    "name": "Human Resource Development",
+    "jobdesk": "Divisi ini bertugas menjaga kekeluargaan di antara anggota UKM-FT EECOM, baik secara internal maupun eksternal. Dengan mempererat kerukunan dan solidaritas antara pengurus dan anggota baru, divisi ini juga menyediakan wadah bermanfaat dalam bidang keilmuan. Selain itu, divisi ini bertanggung jawab mengkoordinasi perayaan hari berdirinya UKM-FT EECOM dan berperan penting dalam pengembangan Sumber Daya Manusia anggota, sehingga memastikan setiap anggota dapat berkembang secara optimal dalam lingkungan yang harmonis dan mendukung.",
+    "struktur": "/photos/hrd.png",
+    "member": [
+      {
+        "id": 1,
+        "name": "Dinda Julyaty",
+        "as": "Coordinator of HRD",
+        "photo": "/photos/dinda.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 2,
+        "name": "Rina Suhita",
+        "as": "Secretary of HRD",
+        "photo": "/photos/rina.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 3,
+        "name": "Muh. Fahar Wicaksono",
+        "as": "Staff of HRD",
+        "photo": "/photos/fahar.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 4,
+        "name": "Ilham Muhammad M",
+        "as": "Staff of HRD",
+        "photo": "/photos/ilham.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 5,
+        "name": "Aurelia Ramadhani S",
+        "as": "Staff of HRD",
+        "photo": "/photos/aurel.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 6,
+        "name": "Muhammad Iqbal Maulana",
+        "as": "Staff of HRD",
+        "photo": "/photos/iqbal.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 7,
+        "name": "M. Alfal N",
+        "as": "Staff of HRD",
+        "photo": "/photos/alfal.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      }
+    ]
+  },
+  "rnd": {
+    "name": "Research and Development",
+    "jobdesk": "Divisi ini berkomitmen untuk menggali dan mengembangkan setiap potensi sumber daya pengurus UKM-FT EECOM, dengan fokus pada peningkatan soft skill dan penyaluran minat serta bakat di bidang bahasa Inggris. Melalui berbagai program pengembangan keterampilan dan pengetahuan, divisi ini mendukung anggota baru dan pengurus untuk mencapai kompetensi yang lebih tinggi. Selain itu, divisi ini juga bertanggung jawab melakukan pendelegasian lomba bahasa Inggris, serta menghasilkan video edukatif berbahasa Inggris. Tak hanya itu, divisi ini juga menjaga koordinasi dengan organisasi mahasiswa bahasa Inggris lainnya di UTM, memperkuat jejaring dan kolaborasi untuk mencapai tujuan bersama.",
+    "struktur": "/photos/rnd.png",
+    "member": [
+      {
+        "id": 1,
+        "name": "Marta Adelia Situmorang",
+        "as": "Coordinator of RnD",
+        "photo": "/photos/marta.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 2,
+        "name": "Pipit Tri Natalia Siburian",
+        "as": "Secretary of RnD",
+        "photo": "/photos/pipit.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 3,
+        "name": "Alicia Tiara Anaya",
+        "as": "Staff of RnD",
+        "photo": "/photos/alice.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 4,
+        "name": "Nur Fajry Ilhamuddin",
+        "as": "Staff of RnD",
+        "photo": "/photos/fajri.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 5,
+        "name": "M. Tora Ashari",
+        "as": "Staff of RnD",
+        "photo": "/photos/tora.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 6,
+        "name": "Johan Kamaluddin Ahmad",
+        "as": "Staff of RnD",
+        "photo": "/photos/johan.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      }
+    ]
+  },
+  "ic": {
+    "jobdesk": "Divisi ini berperan sebagai penggerak utama dalam bidang informasi dan komunikasi di UKM-FT EECOM, bertugas mencari dan menyebarluaskan informasi penting serta mengelola seluruh media sosial UKM-FT EECOM. Dengan memperkuat kehadiran online melalui penambahan konten berkualitas dan pembaruan website, divisi ini memastikan penyampaian informasi menjadi lebih mudah dan efektif. Selain itu, divisi ini juga berkolaborasi dengan divisi lain untuk mempublikasikan konten edukatif yang relevan, sehingga mampu memberikan manfaat maksimal kepada seluruh member UKM-FT EECOM.",
+    "struktur": "/photos/ic.png",
+    "member": [
+      {
+        "id": 1,
+        "name": "Meli Aldi Putra",
+        "as": "Coordinator of IC",
+        "photo": "/photos/meli.jpeg",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      },
+      {
+        "id": 2,
+        "name": "Fery Zandriya S",
+        "as": "Secretary of IC",
+        "photo": "/photos/fery-zandriya.jpg",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 3,
+        "name": "Muhammad Fatib Magfir",
+        "as": "Staff of IC",
+        "photo": "/photos/fatih.jpeg",
+        "major": "Informatics Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 4,
+        "name": "Muhammad Lissanu Brilian",
+        "as": "Staff of IC",
+        "photo": "/photos/brily.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 5,
+        "name": "Radina Tri Apsari",
+        "as": "Staff of IC",
+        "photo": "/photos/radina.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      }
+    ]
+  },
+  "entre": {
+    "name": "Entrepreneurship",
+    "jobdesk": "Divisi wirausaha UKM-FT EECOM berperan penting sebagai penggerak ekonomi organisasi, dengan fokus pada penciptaan dan pengelolaan usaha yang inovatif untuk memberikan pemasukan dana. Divisi ini tidak hanya mendukung keberlangsungan kegiatan UKM-FT EECOM, tetapi juga membuka peluang bagi anggota untuk mengembangkan jiwa kewirausahaan mereka, sehingga mampu berkontribusi secara nyata dalam membangun kemandirian finansial organisasi.",
+    "struktur": "/photos/entre.png",
+    "member": [
+      {
+        "id": 1,
+        "name": "M. Raihan RSAJ",
+        "as": "Coordinator of Entre",
+        "photo": "/photos/rehan.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2024
+      },
+      {
+        "id": 2,
+        "name": "Revalina Yuniar W",
+        "as": "Staff of Entre",
+        "photo": "/photos/revalina.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 3,
+        "name": "Dellon Ismu Enyunanda",
+        "as": "Staff of Entre",
+        "photo": "/photos/dellon.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2023
+      },
+      {
+        "id": 4,
+        "name": "M. Ali As'adi",
+        "as": "Staff of Entre",
+        "photo": "/photos/ali.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 5,
+        "name": "Nurul Fitriyah",
+        "as": "Staff of Entre",
+        "photo": "/photos/nurul.JPG",
+        "major": "Informatics Engineering",
+        "akt": 2025
+      },
+      {
+        "id": 6,
+        "name": "Sabrina Nur Fadiyah",
+        "as": "Staff of Entre",
+        "photo": "/photos/sabrina.JPG",
+        "major": "Industrial Engineering",
+        "akt": 2023
+      }
+    ]
+  }
+}
