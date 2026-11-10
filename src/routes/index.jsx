@@ -89,12 +89,26 @@ const router = createBrowserRouter([
     )
   },
   {
-    path : "/*",
+    path : "/informations/announcements/bee/challenge-bee-2026",
     element : (
       <>
-        <NotFoundPage />
+        <NavbarComponent />
+        <JumbotronComponent textPage="ANNOUNCEMENTS" />
+        <InformationsPage />
+        <FooterComponent />
       </>
-    )
+    ) 
+  },
+  {
+    path : "/informations/announcements",
+    element : (
+      <>
+        <NavbarComponent />
+        <JumbotronComponent textPage="ANNOUNCEMENTS" />
+        <InformationsPage />
+        <FooterComponent />
+      </>
+    ) 
   },
   {
     path : "/informations/announcements/bee/assignment-tm1-bee-2024",
@@ -161,6 +175,14 @@ const router = createBrowserRouter([
         <FooterComponent />
       </>
     ) 
+  },
+  {
+    path : "/*",
+    element : (
+      <>
+        <NotFoundPage />
+      </>
+    )
   },
 
 ])

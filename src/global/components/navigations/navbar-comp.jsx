@@ -82,7 +82,7 @@ export default function NavbarComponent() {
             <Dropdown label={<><HiDocumentSearch className="mr-1" />Information</>} inline>
               <Dropdown.Item className="text-red-700" onClick={() => navigate('/info-1')}>All</Dropdown.Item>
               <Dropdown.Item className="text-red-700" onClick={() => navigate('/info-1')}>News</Dropdown.Item>
-              <Dropdown.Item className="text-red-700" onClick={() => navigate('/informations/announcements/bee/assignment-tm1-bee-2024')}>Announcement</Dropdown.Item>
+              <Dropdown.Item className="text-red-700" onClick={() => navigate('/informations/announcements/bee/challenge-bee-2026')}>Announcement</Dropdown.Item>
               <Dropdown.Item className="text-red-700" onClick={() => navigate('/info-2')}>Competition</Dropdown.Item>
             </Dropdown>
           </div>
@@ -177,7 +177,7 @@ export default function NavbarComponent() {
               <div className="bg-slate-50 border-l-4 border-red-400 ml-5">
                 <button onClick={() => goTo("/info-1")} className="w-full text-left text-sm px-5 py-2.5 text-slate-700 hover:bg-red-50 hover:text-red-600">All</button>
                 <button onClick={() => goTo("/info-1")} className="w-full text-left text-sm px-5 py-2.5 text-slate-700 hover:bg-red-50 hover:text-red-600">News</button>
-                <button onClick={() => goTo("/informations/announcements/bee/assignment-tm1-bee-2024")} className="w-full text-left text-sm px-5 py-2.5 text-slate-700 hover:bg-red-50 hover:text-red-600">Announcement</button>
+                <button onClick={() => goTo("/informations/announcements/bee/challenge-bee-2026")} className="w-full text-left text-sm px-5 py-2.5 text-slate-700 hover:bg-red-50 hover:text-red-600">Announcement</button>
                 <button onClick={() => goTo("/info-2")} className="w-full text-left text-sm px-5 py-2.5 text-slate-700 hover:bg-red-50 hover:text-red-600">Competition</button>
               </div>
             )}
